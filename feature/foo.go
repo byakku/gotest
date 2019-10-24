@@ -2,6 +2,6 @@ package feature
 
 import "fmt"
 
-func foo(){
-  fmt.Println("hi")
+func Foo() {
+	fmt.Println("hi")
 }
